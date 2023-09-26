@@ -6,17 +6,43 @@ O JavaScript não foi utilizado durante as aulas, tive a iniciativa de adcionar 
 
 
 ✅ Semântica no HTML
+
+
 ✅ Flexbox
+
+
 ✅ Responsividade
+
+
 ✅ Menu mobile
 
+
+
+
+
 💻 Tecnologias:
+
+
 As seguintes tecnologias foram usadas na construção do projeto:
 
+
+
 🔣 HTML5
+
+
 🎨 CSS3
+
+
 🔌 Javascript
 
+
+
+
+
 🖼️ Layouts:
+
+
 PC/Tablet
+
+
 Mobile
