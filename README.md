@@ -3,6 +3,7 @@ O intuito do projeto seria desenvolver habilidades como o Flexbox, trazendo tamb
 O JavaScript não foi utilizado durante as aulas, tive a iniciativa de adcionar recursos de JavaScript no botão de menu, para mostrar e esconder o menu de forma suave, quando estivermos em telas mobile. O projeto está totalmente responsivo, usando técnicaas de Flexbox.
 
 🎢 Funcionamento:
+
 ✅ Semântica no HTML
 ✅ Flexbox
 ✅ Responsividade
