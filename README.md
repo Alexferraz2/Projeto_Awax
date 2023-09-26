@@ -4,6 +4,7 @@ O JavaScript não foi utilizado durante as aulas, tive a iniciativa de adcionar 
 
 🎢 Funcionamento:
 
+
 ✅ Semântica no HTML
 ✅ Flexbox
 ✅ Responsividade
